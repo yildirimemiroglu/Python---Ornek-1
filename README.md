@@ -1,3 +1,3 @@
-# Python---Ornek-1
+# Python Ornekler
 
 print("Merhaba Dünya")
